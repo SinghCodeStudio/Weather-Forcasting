@@ -54,6 +54,8 @@ Enter the city name or zip code to view the current weather conditions and forec
 ![image](https://github.com/user-attachments/assets/58925396-c85f-46d8-b5d3-2da971f4a671)
 ![image](https://github.com/user-attachments/assets/418a9205-9120-4e84-b734-86d8badeaa4f)
 ![image](https://github.com/user-attachments/assets/a20e5a08-c54c-4648-a082-f7457aa2609e)
+![image](https://github.com/user-attachments/assets/13eaa874-92e1-4ff8-ba93-4cddc9936a8b)
+
 
 
 
