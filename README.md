@@ -28,7 +28,7 @@ APIs: OpenWeatherMap API (or any other weather API used)
 Clone the Repository
 bash
 Copy code
-git clone https://github.com/yourusername/weather-forecasting-website.git
+git clone https://github.com/SinghCodeStudio/Weather-Forcasting
 cd weather-forecasting-website
 
 bash
